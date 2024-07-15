@@ -46,3 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakmaurya33&show_icons=true&locale=en" alt="deepakmaurya33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmaurya33&" alt="deepakmaurya33" /></p>
+
+## Watch snake eating my github contributions
+![snake gif](https://github.com/DeepakMaurya33/DeepakMaurya33/blob/output/github-contribution-grid-snake.svg)
